@@ -13,8 +13,8 @@ const ResultDetail = ({result}) => {
 
 const styles = StyleSheet.create({
     image: {
-        width: 250,
-        height: 120,
+        width: 280,
+        height: 150,
         borderRadius: 4,
         marginBottom:5
     },
